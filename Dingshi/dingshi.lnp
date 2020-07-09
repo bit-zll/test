@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"dingshi.obj" 
+TO "dingshi" 
+RAMSIZE(256) 
